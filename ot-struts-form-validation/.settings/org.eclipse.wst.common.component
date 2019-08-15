@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ot-struts-form-validation-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/Users/mmonzon/Documents/workspace-spring-tool-suite-4-4.3.0.RELEASE/ot-struts-form-validation/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ot-struts-form-validation"/>
+        <property name="java-output-path" value="/ot-struts-form-validation/build/classes"/>
+    </wb-module>
+</project-modules>
