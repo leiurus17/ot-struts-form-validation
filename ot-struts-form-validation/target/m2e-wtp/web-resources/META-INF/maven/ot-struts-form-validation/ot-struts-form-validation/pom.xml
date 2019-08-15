@@ -24,6 +24,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>StrutsExample</finalName>
 	</build>
 	<dependencies>
 

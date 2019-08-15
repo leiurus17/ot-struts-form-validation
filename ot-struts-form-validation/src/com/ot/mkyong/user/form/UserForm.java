@@ -1,6 +1,13 @@
 package com.ot.mkyong.user.form;
 
-public class UserForm {
+import org.apache.struts.validator.ValidatorForm;
+
+public class UserForm extends ValidatorForm {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 8493084999314528905L;
 	
 	private String username;
 	private String pwd;
