@@ -6,7 +6,7 @@
 <struts-config>
 	
 	<form-beans>
-		<form-bean name="userForm" type="com.mkyong.user.form.UserForm" />	
+		<form-bean name="userForm" type="com.ot.mkyong.user.form.UserForm" />	
 	</form-beans>
 	
 	<action-mappings>
@@ -30,7 +30,7 @@
 	</action-mappings>
 	
 	<message-resources
-		parameter="com.mkyong.user.properties.user" />
+		parameter="com.ot.mkyong.user.properties.user" />
 	
 	
 	<plug-in className="org.apache.struts.validator.ValidatorPlugIn" >
