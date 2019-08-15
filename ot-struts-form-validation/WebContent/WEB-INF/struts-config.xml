@@ -13,12 +13,12 @@
 
 	 	<action
 			path="/Register"
-			type="com.mkyong.user.action.UserAction"
+			type="com.ot.mkyong.user.action.UserAction"
 			name="userForm"
 			input="/pages/RegisterUser.jsp"
 			>
  
-			<forward name="success" path="/pages/ThanksYou.jsp"/>
+			<forward name="success" path="/pages/ThankYou.jsp"/>
  
 		</action>
 
